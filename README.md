@@ -1,29 +1,34 @@
-🧠 Quiz App – React
-Live Demo: 👉 quiz-app-react-ritika.netlify.app
+# 🧠 Quiz App – React
 
-A sleek and responsive Quiz App built with React.js, HTML, and CSS. Test your knowledge with multiple-choice questions, track your score, and reset to play again!
+**Live Demo**: [quiz-app-react-ritika.netlify.app](https://quiz-app-react-ritika.netlify.app/)
 
-📌 Features
-✅ Interactive multiple-choice questions
+A responsive and interactive Quiz App built using **React.js**, **HTML**, and **CSS**. It lets users answer multiple-choice questions, get instant feedback, track scores, and reset the quiz to try again.
 
-✅ Instant feedback (correct/wrong)
+---
 
-✅ Score tracking
+## 🚀 Features
 
-✅ Reset quiz functionality
+- 🎯 Multiple-choice questions
+- ✅ Correct/wrong answer feedback
+- 📊 Score tracking
+- 🔁 Reset quiz option
+- 📱 Fully responsive design
+- 🌐 Deployed on Netlify
 
-✅ Clean UI with responsive design
+---
 
-✅ Deployed with Netlify
+## 🛠️ Tech Stack
 
-⚙️ Tech Stack
-💻 React.js
+- React.js (Frontend framework)
+- HTML5 (Markup)
+- CSS3 (Styling)
+- Netlify (Deployment)
 
-🎨 CSS3
+---
 
-🌐 HTML5
+## 📁 Project Structure
 
-🚀 Netlify (Deployment)
+
 
 📁 Folder Structure
 csharp
