@@ -77,6 +77,7 @@ npm run dev
 npm run build
 <br>
 ---
+
 ## 🌐 Deployment (on Netlify)
 <br>
 Run npm run build
@@ -88,6 +89,7 @@ Or connect GitHub repo directly to Netlify with:
 Build command: npm run build
 <br>
 Publish directory: dist
-<br>
+---
+
 ## 🧑‍💻 Author
 Made with 💜 by Ritika 
