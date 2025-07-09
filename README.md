@@ -54,13 +54,16 @@ quiz-app-react/
 <br>
 └── vite.config.js          # Vite config (if using Vite)
 <br>
-🚀 Getting Started
+
+---
+## 🚀 Getting Started
 <br>
-1. Clone the Repo
+**1. Clone the Repo **
    <br>
 git clone https://github.com/Ritika168/Quiz-App.git
 <br>
 cd quiz-app-react
+<br>
 2. Install Dependencies
    <br>
 npm install
@@ -73,7 +76,8 @@ npm run dev
 <br>
 npm run build
 <br>
-🌐 Deployment (on Netlify)
+---
+## 🌐 Deployment (on Netlify)
 <br>
 Run npm run build
 <br>
@@ -85,5 +89,5 @@ Build command: npm run build
 <br>
 Publish directory: dist
 <br>
-🧑‍💻 Author
+## 🧑‍💻 Author
 Made with 💜 by Ritika 
