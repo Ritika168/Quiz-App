@@ -27,45 +27,44 @@ A responsive and interactive Quiz App built using **React.js**, **HTML**, and **
 ---
 
 ## 📁 Project Structure
-Copy
-Edit
 quiz-app-react/
 ├── public/
 <br>
 │   └── index.html
 <br>
 ├── src/
+<br>
 │   ├── assets/
+<br>
 │   │   └── data.js         # Quiz question data
+<br>
 │   ├── Components/
+<br>
 │   │   └── Quiz/
+<br>
 │   │       ├── Quiz.jsx    # Main quiz logic
+<br>
 │   │       └── Quiz.css    # Quiz styling
+<br>
 │   ├── App.jsx             # Root component
+<br>
 │   └── main.jsx            # React entry point
+<br>
 ├── package.json
+<br>
 └── vite.config.js          # Vite config (if using Vite)
+<br>
 🚀 Getting Started
 1. Clone the Repo
-bash
-Copy
-Edit
 git clone https://github.com/Ritika168/Quiz-App.git
 cd quiz-app-react
 2. Install Dependencies
-bash
-Copy
-Edit
 npm install
 3. Run Locally
-bash
-Copy
-Edit
+
 npm run dev
 4. Build for Production
-bash
-Copy
-Edit
+
 npm run build
 🌐 Deployment (on Netlify)
 Run npm run build
