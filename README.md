@@ -27,16 +27,13 @@ A responsive and interactive Quiz App built using **React.js**, **HTML**, and **
 ---
 
 ## 📁 Project Structure
-
-
-
-📁 Folder Structure
-csharp
 Copy
 Edit
 quiz-app-react/
 ├── public/
+<br>
 │   └── index.html
+<br>
 ├── src/
 │   ├── assets/
 │   │   └── data.js         # Quiz question data
