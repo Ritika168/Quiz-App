@@ -28,6 +28,7 @@ A responsive and interactive Quiz App built using **React.js**, **HTML**, and **
 
 ## 📁 Project Structure
 quiz-app-react/
+<br>
 ├── public/
 <br>
 │   └── index.html
@@ -56,40 +57,5 @@ quiz-app-react/
 <br>
 
 ---
-## 🚀 Getting Started
-<br>
-**1. Clone the Repo **
-   <br>
-git clone https://github.com/Ritika168/Quiz-App.git
-<br>
-cd quiz-app-react
-<br>
-2. Install Dependencies
-   <br>
-npm install
-<br>
-3. Run Locally
-<br>
-npm run dev
-<br>
-4. Build for Production
-<br>
-npm run build
-<br>
----
-
-## 🌐 Deployment (on Netlify)
-<br>
-Run npm run build
-<br>
-Upload the /dist folder to Netlify Drop
-<br>
-Or connect GitHub repo directly to Netlify with:
-<br>
-Build command: npm run build
-<br>
-Publish directory: dist
----
-
 ## 🧑‍💻 Author
 Made with 💜 by Ritika 
